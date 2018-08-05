@@ -7,5 +7,6 @@ This isn't Ruby.
 
 ## Usage
 
-For a quick example, start at `combined.py`. If you can't figure out what's going on,
-bug the author to finish the half-written blog post.
+For a quick example, start at `combined.py`.
+
+[Explanatory blog post](https://blog.sd.af/posts/macroator.html)
